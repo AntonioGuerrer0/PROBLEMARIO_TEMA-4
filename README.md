@@ -127,7 +127,8 @@ el Método del Trapecio es una técnica numérica utilizada para aproximar el va
 
 
 <h4> <font font face = "arial"> Programa ejecutado </h4>
-![Captura de pantalla 2024-05-21 151633](https://github.com/AntonioGuerrer0/PROBLEMARIO_TEMA-4/assets/161759650/bd71702d-3708-4907-bb02-580dbd7aec72)
+
+![Captura de pantalla 2024-05-30 225009](https://github.com/AntonioGuerrer0/PROBLEMARIO_TEMA-4/assets/161759650/5e1d96cd-c1f1-49dd-b003-6ea76beb8026)
 
 
 <h3 align = "center"> <font  font face = "bauhaus 93"> <a name=" Método de Simpson 1/3 ">  Método de Simpson 1/3 </a> </font> </h3>
@@ -396,5 +397,6 @@ El Método de la Cuadratura Gaussiana es una técnica de integración numérica 
 
 
 <h4> <font font face = "arial"> Programa ejecutado </h4>
-![Captura de pantalla 2024-05-30 225644](https://github.com/AntonioGuerrer0/PROBLEMARIO_TEMA-4/assets/161759650/4566ef15-d20d-4565-ab01-7a067e31bd42)
 
+
+![Captura de pantalla 2024-05-30 225644](https://github.com/AntonioGuerrer0/PROBLEMARIO_TEMA-4/assets/161759650/62981968-cc4d-4ef0-a468-d427d4ac9d6e)
